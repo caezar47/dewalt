@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ru-RU"> 
+	<head>
+		{% include "../block/common/head/head.twig" with {
+			title:"Главная",
+			style:[
+				{
+					name: 'index',
+				}
+			],
+		}  %}
+	</head>
+	<body>
+		<div style="max-width: 800px; margin: 20px auto; color: #000; font-weight: 300;">
+			<ul>
+				<li>
+					<a href="{{ page.club }}">ST-3268::Клуб Мастеров</a>
+				</li>
+			</ul>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,27 @@
+{
+	"contacts":{
+		"name":"shop.dewalt.ru",
+		"domain":"shop.dewalt.ru",
+		"domain_link":"//shop.dewalt.ru/"
+	},
+	"page":{
+		"club":"./ST-3268-club-masterov.html"
+	},
+	"css":{
+		"club":"ST-3268-club-masterov.css"
+	},
+	"js":{
+		"club":"ST-3268-club-masterov.js"
+	},
+	"prefix":{
+		"club":"club"
+	},
+	"path":{		                  
+		"css":"./css",
+		"img":"/media/up/dewalt",
+		"img":"./img",
+		"js":"./js",
+		"favicon":"./favicon",
+		"docs":"./docs" 
+	}
+}
