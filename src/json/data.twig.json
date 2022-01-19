@@ -18,8 +18,8 @@
 	},
 	"path":{		                  
 		"css":"./css",
-		"img":"/media/up/dewalt",
 		"img":"./img",
+		"img":"/media/up/dewalt",
 		"js":"./js",
 		"favicon":"./favicon",
 		"docs":"./docs" 
